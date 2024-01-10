@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.mycompany.hazelcastexample","c":"Person","l":"getName()"},{"p":"com.mycompany.hazelcastexample","c":"Person","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.mycompany.hazelcastexample","c":"Person","l":"setName(String)","u":"setName(java.lang.String)"}];updateSearchResults();

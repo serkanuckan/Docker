@@ -1,0 +1,50 @@
+@options
+@packages
+-classpath
+'/Users/emirhankaplan/.m2/repository/com/hazelcast/hazelcast/5.3.6/hazelcast-5.3.6.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/Users/emirhankaplan/NetBeansProjects/HazelcastExample/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'HazelcastExample 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'HazelcastExample 1.0-SNAPSHOT API'
+com.mycompany.hazelcastexample
+/Users/emirhankaplan/.m2/repository/com/hazelcast/hazelcast/5.3.6/hazelcast-5.3.6.jar = 1704549564367
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/src/main/java/.DS_Store = 1704550966903
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/src/main/java = 1704550966903
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/tag-search-index.js = 1704722460398
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/overview-tree.html = 1704722460392
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/module-search-index.js = 1704722460397
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/index.html = 1704722460403
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/package-search-index.js = 1704722460398
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/index-all.html = 1704722460401
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/allpackages-index.html = 1704722460397
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/member-search-index.js = 1704722460398
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/copy.svg = 1704722460409
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/script.js = 1704722460409
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/stylesheet.css = 1704722460409
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/search-page.js = 1704722460411
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/help-doc.html = 1704722460407
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/element-list = 1704722460380
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/search.html = 1704722460402
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/allclasses-index.html = 1704722460396
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/type-search-index.js = 1704722460398
+/Users/emirhankaplan/NetBeansProjects/HazelcastExample/target/apidocs/search.js = 1704722460410
